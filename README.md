@@ -15,3 +15,4 @@ run `Dense_Associative_Memory_training.ipynb` and observe the weights together w
 (c) 2016 Dmitry Krotov
 -- Apache 2.0 License
 
+jakdot: I added comments to the ipynb file and added a few tests that should help understand the code. The file further testing describes some extra ways of exploring Hopfield networks. The python files show variation in training of Hopfield networks. The folder images show how training proceeded for three different cases - when n was small (n=3), when it was standard (n=30) and when fewer memories were stored (16 instead of 100). The pkl file stores a trained network.
